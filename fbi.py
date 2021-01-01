@@ -66,11 +66,11 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Hak9
-    Name       Facebook Information
+    Author     Abdelrahman Mohsen
+    Name       Facebook Information #FBI#
     Version    Full Version
-    Date       08/04/2019 
-    Jabber     xhak9x@jabber.de
+    Date       01/01/2021 
+    Email     tervcc@gmail.com
 
 * if you find any errors or problems , please contact
   author
