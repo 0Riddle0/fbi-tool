@@ -67,7 +67,7 @@ def show_program():
  ------------------------------------------------------
 
     Author     Abdelrahman Mohsen
-    Name       Facebook Information #FBI#
+    Name       Facebook Information [#FBI#]
     Version    Full Version
     Date       01/01/2021 
     Email     tervcc@gmail.com
