@@ -70,7 +70,7 @@ def show_program():
     Name       Facebook Information
     Version    Full Version
     Date       01/01/2021 
-    Whatsapp     +201223020204
+    Telegram     t.me/Mr0Riddle0
 
 * if you find any errors or problems , please contact
   author
