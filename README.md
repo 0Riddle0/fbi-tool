@@ -31,9 +31,6 @@ $ pip2 install -r requirements.txt
 ```
 $ python2 fbi.py
 ```
-# [ Screenshot ]
-<img src="https://github.com/0Riddle0/fbi-tool/blob/main/fbi.jpg"/>
-
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
